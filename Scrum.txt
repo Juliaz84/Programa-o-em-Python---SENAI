@@ -1,0 +1,19 @@
+Scrum master
+	 Ele é um líder e um facilitador, onde garante que a equipe siga as práticas do Scrum, focando sempre no processo do trabalho. Ele orienta a equipe na organização e colaboração, sempre evitando obstáculos ou distrações que dispersam sua equipe.
+
+
+
+Product Owner(PO)
+	Ele é o responsável pelo produto, sempre valorizando o valor do trabalho em equipe, destacando assim a visão do negócio e o que o cliente necessita. Ele é aquele que foca nos stakeholders, verificando sempre o valor final de uma Sprint e do Produto.
+
+
+
+Líder de Equipe - TI
+	Foca na parte técnica do projeto e para a equipe, onde vai dar orientação e suporte aos engenheiros de software.
+
+
+
+Equipe de Tecnologia
+	Esses são chamados de Developers, onde se forma a equipe de desenvolvedores, que vão ser aqueles que realizarão todo o trabalho de criar e incrementar o produto, são eles que irão organizar para gerenciar uma Sprint e participar no funcionamento do Scrum. 
+	
+ 
